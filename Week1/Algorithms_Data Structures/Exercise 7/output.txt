@@ -1,0 +1,3 @@
+Memoized Recursive Forecast: $13247.68
+Iterative Forecast: $13247.68
+Results Match: true
