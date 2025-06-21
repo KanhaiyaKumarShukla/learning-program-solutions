@@ -1,0 +1,4 @@
+Logger instance created
+LOG: Test message 1
+LOG: Test message 2
+Same instance? true
