@@ -1,0 +1,12 @@
+=== LINEAR SEARCH (UNSORTED) ===
+Found: Product{id='P402', name='Bluetooth Headphones', category='Electronics', price=129.99}
+
+Sorted Products:
+P100: Laptop
+P203: Desk Chair
+P305: Coffee Maker
+P402: Bluetooth Headphones
+P507: Running Shoes
+
+=== BINARY SEARCH (SORTED) ===
+Found: Product{id='P203', name='Desk Chair', category='Furniture', price=149.99}
